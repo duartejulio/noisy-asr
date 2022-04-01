@@ -1,1 +1,1 @@
-Folder with compressed dataset. Compressed file is password protected, so please ask for the password, summarizing why dou you need the dataset.
+Folder with compressed dataset. Compressed file is sent by request and password protected, so please ask for the link and password, summarizing why dou you need the dataset.
