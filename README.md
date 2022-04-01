@@ -1,3 +1,2 @@
 # noisy-asr
-Scripts for generating noisy audio datasets with sample files
-dataset - instructions for dataset request
+Scripts for generating noisy audio datasets with sample files and instructions for dataset request
